@@ -1,0 +1,11 @@
+# Ignoruj środowisko i cache
+venv/
+__pycache__/
+*.pyc
+
+# Ignoruj zależności frontendu
+frontend/node_modules/
+
+# Ignoruj pliki tymczasowe
+*.log
+*.env
